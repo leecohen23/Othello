@@ -1,0 +1,222 @@
+# Fill in, commit and push each day.
+Member name: lee Cohen y Escaloni     email: lee.cohenyescaloni@mail.utoronto.ca     utorid:   cohenyes
+
+Oct 17,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 29,2019
+	What I did yesterday: Learned how to merge and use git on eclipse
+	What I will do today: meeting about the assignment with teammembers
+	Obstacles I face:
+
+Oct 30,2019
+	What I did yesterday: Finished understanding mvc
+	What I will do today: conference call with the team to figure out the future plans
+	Obstacles I face: Understanding all the different files
+
+Oct 31,2019
+	What I did yesterday: conference call with the team
+	What I will do today: Tried figuring out how to insert an image in javafx
+	Obstacles I face: researching how to do it
+
+Nov 1,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 2,2019
+	What I did yesterday: CSC207 midterm
+	What I will do today: USERSTORY 1.06
+	Obstacles I face: working with images and shapes
+
+Nov 3,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 4,2019
+	What I did yesterday: Reviewed my code and studied for sta256
+	What I will do today: finish working on USERSTORY 1.06
+	Obstacles I face: understanding JAVAFX
+
+Nov 5,2019
+	What I did yesterday: Studied for sta256 midterm
+	What I will do today: continue working on the user story 1.06
+	Obstacles I face: time management because I have a lot of assignments due this week.
+
+Nov 6,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 7,2019
+	What I did yesterday: Studied for sta256 mid term
+	What I will do today: csc236 problem set 
+	Obstacles I face: managing everything since we have a lot of work across all of our courses
+
+Nov 8,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 9,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 10,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 11,2019
+	What I did yesterday: nothing
+	What I will do today: practicing interview questions
+	Obstacles I face: time management
+
+Nov 12,2019
+	What I did yesterday: tech interviews
+	What I will do today: csc236 test studying
+	Obstacles I face: time management
+
+Nov 13,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 14,2019
+	What I did yesterday: studied for 236 mid term
+	What I will do today:studying the different design pattern and helping my pattern on the timer user story
+	Obstacles I face: time managmenent
+
+Nov 15,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 16,2019
+	What I did yesterday: finished 1.10
+	What I will do today: finished 1.15
+	Obstacles I face: finishing on time and discussing with teammatesK
+
+Nov 17,2019
+	What I did yesterday: Group call most of the day to discuss design patterns and how to improve our code.
+	What I will do today: finish debugging and add comments and finish everything so we can submit the assignment.
+	Obstacles I face: Work together to divide work evenly.
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

@@ -1,0 +1,222 @@
+# Fill in, commit and push each day.
+Member name:William Chau      email:billy.chau@mail.utoronto.ca     utorid:chauwil2   
+
+Oct 17,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 26,2019
+	What I did yesterday: pull repo
+	What I will do today: finished BUG 0.03
+	Obstacles I face: Learning how to create and merge branches
+
+Oct 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 28,2019
+	What I did yesterday:
+	What I will do today:meeting for Sprint1
+	Obstacles I face:working on user story 1.01
+
+Oct 29,2019
+	What I did yesterday:
+	What I will do today:UserStory 1.03, 1.04, 1.05
+	Obstacles I face:creating a text and add to the gui
+
+Oct 30,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 31,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 1,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 2,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 3,2019
+	What I did yesterday:
+	What I will do today:Study for STA256 So I will not work on the assignment today
+	Obstacles I face:
+
+Nov 4,2019
+	What I did yesterday:
+	What I will do today:Study for STA256 So I will not work on the assignment today
+	Obstacles I face:
+
+Nov 5,2019
+	What I did yesterday:
+	What I will do today:Study for STA256 So I will not work on the assignment today
+	Obstacles I face:
+
+Nov 6,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 7,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 8,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 9,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 10,2019
+	What I did yesterday:
+	What I will do today:Study for CSC236 So I will not work on the assignment today
+	Obstacles I face:
+
+Nov 11,2019
+	What I did yesterday:
+	What I will do today:Study for CSC236 So I will not work on the assignment today
+	Obstacles I face:
+
+Nov 12,2019
+	What I did yesterday:
+	What I will do today:Construct DesignPattern Frame
+	Obstacles I face:knowing different function of different DesignPattern
+
+Nov 13,2019
+	What I did yesterday:
+	What I will do today:UserStory 1.11
+	Obstacles I face:restart the othello board
+
+Nov 14,2019
+	What I did yesterday:
+	What I will do today:continue on UserStory1.11
+	Obstacles I face:reset timer
+
+Nov 15,2019
+	What I did yesterday:
+	What I will do today:UserStory1.12
+	Obstacles I face: Create Command when players move
+
+Nov 16,2019
+	What I did yesterday:
+	What I will do today:Cont. UserStory1.12
+	Obstacles I face:Calls the command from different class
+
+Nov 17,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

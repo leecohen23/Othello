@@ -1,0 +1,14 @@
+Bugs:
+Yingxiaoyang Hu (huyingx1): 1
+Jingyuan He (hejingy1): 1
+William Chau (chauwil2): 1
+Lee Cohen y Escaloni (cohenyes): 1
+
+User Story:
+Yingxiaoyang Hu (huyingx1): 9
+Jingyuan He (hejingy1): 3
+William Chau (chauwil2): 5
+Lee Cohen y Escaloni (cohenyes): 4
+
+Total Bugs: 4/8
+Total Stories: 20/24

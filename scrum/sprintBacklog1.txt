@@ -1,0 +1,93 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 1 Oct 20-Oct 26, 2019
+# Sprint 1 Backlog UserStories go below
+
+TYPE     : BUG 0.01 : UTORID : huyingx1: STATUS : Complete (NotStarted,InProgress, Incomplete,Complete)
+NAME     : Configure and use system
+OWNER    : Yingxiaoyang Hu
+PRIORITY : (1,2,3)
+ESTIMATE : (1 hour, 2 hours, 4 hours, 1 day, 2 days, 4 days)    ACTUAL :  Less than 1 hour
+ISSUE    : Member 1 
+- demonstrates that they have added, committed and pushed members.txt. 
+- demonstrates that they can run OthelloControllerHumanVSHuman on their dev platform
+- demonstrates that they can run MVCApplication on their dev platform
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 0.02 : UTORID : hejingy1: Complete(NotStarted,InProgress, Incomplete,Complete)
+NAME     : Configure and use system
+OWNER    : Jingyuan He
+PRIORITY : (1,2,3)
+ESTIMATE : (1 hour, 2 hours, 4 hours, 1 day, 2 days, 4 days)    ACTUAL :  Less than 1 hour
+ISSUE    : Member 2 
+- demonstrates that they have added, committed and pushed members.txt. 
+- demonstrates that they can run OthelloControllerHumanVSHuman on their dev platform
+- demonstrates that they can run MVCApplication on their dev platform
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 0.03 : UTORID : chauwil2 STATUS : Complete (NotStarted,InProgress, Incomplete,Complete)
+NAME     : Configure and use system
+OWNER    : William Chau
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL :  1 hour 
+ISSUE    : Member 3
+- demonstrates that they have added, committed and pushed members.txt. 
+- demonstrates that they can run OthelloControllerHumanVSHuman on their dev platform
+- demonstrates that they can run MVCApplication on their dev platform
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 0.04 : UTORID : cohenyes STATUS : Completed (NotStarted,InProgress, Incomplete,Complete)
+NAME     : Configure and use system
+OWNER    :  lee cohen y escaloni
+PRIORITY : 2 (1,2,3)
+ESTIMATE : 2 hours ACTUAL :  1 hour
+ISSUE    : Member 4
+- demonstrates that they have added, committed and pushed members.txt. 
+- demonstrates that they can run OthelloControllerHumanVSHuman on their dev platform
+- demonstrates that they can run MVCApplication on their dev platform
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.01 : UTORID : huyingx1 STATUS : Completed
+NAME     : OthelloGUI Click Registration
+OWNER    : Yingxiaoyang Hu
+PRIORITY : 1
+ESTIMATE : 2 days    ACTUAL : 1 day
+ISSUE    : User can now click on an 8x8 grid of buttons used by the
+OthelloApplication. At this stage, a click results in a print out of
+the (row,col) that the user clicked.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.011 : UTORID : huyingx1 STATUS : Completed
+NAME     : OthelloGUI Buttons Active, Console View
+OWNER    : Yingxiaoyang Hu
+PRIORITY : 1
+ESTIMATE : 2 days    ACTUAL :  1 day
+ISSUE    : The users can now use the OthelloGUI created in US1.01
+for Human vs Human play. Now when the user clicks a button, the resulting
+board is printed on the console. This basically replaces the keyboard
+in the old HumanVSHuman game, but the output is still on the console.
+
+NOTE: Make sure that you are using good MVC principles in implementing this.
+If you didn't then file BUG 1.012 to fix the implementation.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.012 : UTORID : huyingx1 STATUS : Completed
+NAME     : OthelloGUI
+OWNER    : Yingxiaoyang Hu
+PRIORITY : 1
+ESTIMATE : 2 days    ACTUAL : 1 day
+ISSUE    : The users can now use the OthelloGUI created in US1.011
+for Human vs Human play. Now when the user clicks a button, the resulting
+board is printed on the console.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.02 : UTORID : huyingx1 STATUS : Completed
+NAME     : Othello Board Human VS Human
+OWNER    : Yingxiaoyang Hu
+PRIORITY : 1
+ESTIMATE : 2 days    ACTUAL : 1 day
+ISSUE    : The users can now use the OthelloGUI created in US1.012
+for Human vs Human play. The grid buttons simply show X and O text
+labels for the buttons. There is no longer a console display as in 1.012.

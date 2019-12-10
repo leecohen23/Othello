@@ -1,0 +1,5 @@
+Member1 name: Yingxiaoyang(Shawn) Hu       email: shawn.hu@mail.utoronto.ca              utorid: huyingx1
+Member2 name: Jingyuan He                  email: jingyuan.he@mail.utornto.ca            utorid: hejingy1
+Member3 name: William Chau                 email:billy.chau@mail.utoronto.ca             utorid:chauwil2
+Member4 name: Lee Cohen y Escaloni         email: lee.cohenyescaloni@mail.utoronto.ca    utorid: cohenyes
+Coach name: Veerpal    email: v.brar@mail.utoronto.ca
